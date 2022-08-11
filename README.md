@@ -4,6 +4,8 @@ I run a personal mailserver, postfix/dovecot, on my Raspberry Pi. Some idiots go
 
 The only way, as far as I can see, to mitigate this is to parse the logfiles and dump the idiot into IPTables. Then the idiot goes off and buys more IP addresses from their masters and starts over. Do not even try to suggest I dick about with some .cf .conf or other file in postfix/dovecot. It just blows up the size of the logfile. Also do not suggest I should download or subscribe to someone else's unfocussed IP shitlist.
 
+And do not under any circumstances recommend I install fail2ban because it does not work out of the box and my life is shorter than all the stackexchange and other shit available on the intertubes to make it do anything.
+
 I want a community gathered shitlist whereby members run a script that parses mail.log and dumps the L33T idiots IP addresses into a file that gets uploaded to a place on github where it is parsed for a consensus and reduced to an IPTables shitlist for everyone else to use and I will throw my stupid toys out of my stupid pram if I do not get one!
 
 Naturally, despite your man pages and recommendations to add text I can copy to a file that is unidentified whilst not mentioning I have to uncomment some lines in auth-10 under conf.d, I do not have the skills required to achieve this.
