@@ -12,6 +12,8 @@ Now I am going to suggest that if this Plan succeeds THE LIST will be read by th
 
 My, for shit, prototype script is,
 
+Oh crap github hates me. Try prototype.txt
+
 #!/bin/sh
 
 #take a copy of the miscreants
